@@ -1,8 +1,5 @@
-## Hi there 👋
-https://img.shields.io/pypi/pyversions/:packageName
-# 🌟 Welcome to My GitHub Profile!
-
-Hi there! I'm [Your Name] (a.k.a. [Your GitHub Username]).  
+Hi there! I'm [Your Name] (a.k.a. [Your GitHub Username]). 
+안녕하세요 
 I’m passionate about **[your interests, e.g., data analysis, web development, AI]**, and I love creating innovative solutions through code.
 
 ---
@@ -20,7 +17,7 @@ I’m passionate about **[your interests, e.g., data analysis, web development, 
 ## 🛠️ Skills and Tools
 Main
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square) \n
 sub
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -30,6 +27,8 @@ sub
 
 ---
 
+
+<!--
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
@@ -50,7 +49,6 @@ sub
 
 
 
-<!--
 **junyub7/junyub7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
