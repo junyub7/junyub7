@@ -1,5 +1,5 @@
-Hi there! I'm [Your Name] (junyub7).  
-안녕하세요 주영입니다.  
+##Hi there! I'm jooyoung (junyub7).  
+#안녕하세요 주영입니다.  
 I’m passionate about **data analysis, Database development, AI**.  
 저는 데이터베이스 개발, 데이터 분석, AI 등에 관심 있습니다.
 ---
