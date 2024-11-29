@@ -1,4 +1,4 @@
-Hi there! I'm junyub. 
+Hi there! I'm [Your Name] (a.k.a. [Your GitHub Username]).  
 안녕하세요 주영입니다.
 I’m passionate about **[your interests, e.g., data analysis, web development, AI]**, and I love creating innovative solutions through code.
 
