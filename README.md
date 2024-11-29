@@ -1,25 +1,25 @@
 Hi there! I'm [Your Name] (a.k.a. [Your GitHub Username]).  
 안녕하세요 주영입니다.  
-I’m passionate about **[your interests, data analysis, Database development, AI]**.
-
+I’m passionate about **[your interests, data analysis, Database development, AI]**.  
+저는 데이터베이스 개발, 데이터 분석, AI 등에 관심 있습니다.
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[Your Current Project]**  
-- 🌱 I’m learning **[Current Learning Focus, e.g., Python, Machine Learning, etc.]**  
-- 💬 Ask me about **[Your Expertise, e.g., Backend Development, Data Visualization, etc.]**  
+- 🌱 I’m learning **[Current Learning Focus, e.g., Python, DB.]**  
+- 💬 Ask me about **[Your Expertise, e.g., Backend Development, Data analysis.]**  
 - 📫 How to reach me: **[Your Email Address or Social Media Link]**  
-- ⚡ Fun fact: **[Fun Fact About You, e.g., I love hiking and coffee!]**
+- ⚡ Fun fact: **I love history and Chocolatey!**
 
 ---
 
 ## 🛠️ Skills and Tools
 Main
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square) \n
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
 sub
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
