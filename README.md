@@ -1,15 +1,17 @@
-##Hi there! I'm jooyoung (junyub7).  
-#안녕하세요 주영입니다.  
-I’m passionate about **data analysis, Database development, AI**.  
-저는 데이터베이스 개발, 데이터 분석, AI 등에 관심 있습니다.
+<h1>Hi there! I'm jooyoung (junyub7)</h1>  
+I’m passionate about data analysis, Database development, AI.  <br>
+안녕하세요 주영입니다. <br>  
+저는 데이터베이스 개발, 데이터 분석, AI 등에 관심 있습니다.  
+
+
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**  
-- 🌱 I’m learning **[Current Learning Focus, e.g., Python, DB.]**  
-- 💬 Ask me about **[Your Expertise, e.g., Backend Development, Data analysis.]**  
-- 📫 How to reach me: **[Your Email Address or Social Media Link]**  
+- 🔭 I’m currently working on 3  
+- 🌱 I’m learning Python, DBSQL, JAVA.  
+- 💬 Ask me about Backend Development, Data analysis, Python, arduino. 
+- 📫 How to reach me: junyub.kakao.com 
 - ⚡ Fun fact: **I love history and Chocolatey!**
 
 ---
